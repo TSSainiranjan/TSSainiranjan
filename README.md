@@ -1,101 +1,90 @@
-<h1 align="center">Hi 👋, I'm Sainiranjan</h1>
-<h3 align="center">Full Stack Developer | React • .NET • APIs</h3>
+<h1 align="center">Hi 👋, I'm T S Sainiranjan</h1>
+<h3 align="center">Software Engineer | Python • AI • Full Stack</h3>
 
 <p align="center">
-Building scalable web applications and exploring modern software architecture.
+Building scalable applications, automation systems, and intelligent solutions using modern technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Full Stack Developer  
-- ⚙️ Tech Stack: **React, .NET Core, REST APIs**  
-- 🌱 Currently learning **advanced backend architecture & system design**  
-- 🧠 Interested in **scalable systems and clean code**  
-- 🤝 Open to **collaborations on web development projects**
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css"/>
-</p>
-
-### Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,nextjs,bootstrap,tailwind"/>
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-</p>
+- 💻 Software Engineer interested in **AI, backend systems and full stack development**
+- ⚙️ Strong focus on **Python automation and intelligent systems**
+- 🧠 Exploring **machine learning, system design and modern web architectures**
+- 🤝 Open to collaborating on **AI and web development projects**
 
 ---
 
-## 📌 Featured Projects
-
-### ✈️ SimplyFly
-Flight booking web application.
-
-**Tech Stack**
-- React
-- ASP.NET Core Web API
-- SQL Database
-
-Features:
-- Flight search
-- Booking system
-- User dashboard
-
----
-
-### 📊 Workday Absence Configuration
-Enterprise HR configuration examples.
-
-Features:
-- Time-off plans
-- Accrual logic
-- Eligibility rules
-- Leave of absence setup
-
----
-
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TSSainiranjan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TSSainiranjan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSSainiranjan&theme=react-dark"/>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+<a href="https://www.python.org/" title="Python">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+</a>
+
+<a href="https://react.dev/" title="React">
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+</a>
+
+<a href="https://nodejs.org/" title="NodeJS">
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+</a>
+
+<a href="https://www.tensorflow.org/" title="TensorFlow">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+</a>
+
+<a href="https://www.postgresql.org/" title="PostgreSQL">
+<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" title="MySQL">
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" title="Git">
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+</a>
+
+<a href="https://github.com/" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" title="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>
+
+<a href="https://figma.com/" title="Figma">
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSSainiranjan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tssainiranjan@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
 </a>
 
@@ -103,8 +92,8 @@ Features:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
+<a href="https://www.linkedin.com/in/tssainiranjan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+</a>
+
 </p>
-
----
-
-⭐ From [TSSainiranjan](https://github.com/TSSainiranjan)
