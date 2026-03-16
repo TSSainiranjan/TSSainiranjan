@@ -16,55 +16,55 @@ Building scalable applications, automation systems, and intelligent solutions us
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
-<a href="https://www.python.org/" title="Python">
+<a href="https://www.python.org/" title="Python" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
 </a>
 
-<a href="https://www.typescriptlang.org/" title="TypeScript">
+<a href="https://www.typescriptlang.org/" title="TypeScript" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
 </a>
 
-<a href="https://react.dev/" title="React">
+<a href="https://react.dev/" title="React" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
 </a>
 
-<a href="https://nodejs.org/" title="NodeJS">
+<a href="https://nodejs.org/" title="NodeJS" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 </a>
 
-<a href="https://www.tensorflow.org/" title="TensorFlow">
+<a href="https://www.tensorflow.org/" title="TensorFlow" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
 </a>
 
-<a href="https://www.postgresql.org/" title="PostgreSQL">
+<a href="https://www.postgresql.org/" title="PostgreSQL" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
 </a>
 
-<a href="https://www.mysql.com/" title="MySQL">
+<a href="https://www.mysql.com/" title="MySQL" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </a>
 
-<a href="https://git-scm.com/" title="Git">
+<a href="https://git-scm.com/" title="Git" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 </a>
 
-<a href="https://github.com/" title="GitHub">
+<a href="https://github.com/" title="GitHub" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://code.visualstudio.com/" title="VS Code">
+<a href="https://code.visualstudio.com/" title="VS Code" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </a>
 
-<a href="https://figma.com/" title="Figma">
+<a href="https://figma.com/" title="Figma" style="text-decoration:none">
 <img src="https://skillicons.dev/icons?i=figma" height="50"/>
 </a>
 
