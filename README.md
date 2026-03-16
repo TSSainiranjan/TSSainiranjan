@@ -80,20 +80,24 @@ Building scalable applications, automation systems, and intelligent solutions us
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:tssainiranjan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
+<a href="mailto:tssainiranjan@gmail.com" title="Email">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/TSSainiranjan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
+<a href="https://github.com/TSSainiranjan" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tssainiranjan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+<a href="https://linkedin.com/in/tssainiranjan" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://instagram.com/sainiranjan.exe" title="Instagram">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 </p>
